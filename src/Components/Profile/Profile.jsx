@@ -14,7 +14,7 @@ const Profile = () => {
                 <input type="button" value={"Отправить"}/>
             </div>
             <div className={s.post}>
-                <Post message="Это пост 1 я тут пропсы бдять учук"/>
+                <Post message="Так пытаюсь понять эти ваши коммиты"/>
                 <Post message="Это пост 2 тут до меня приходит осознание"/>
                 <Post message="Это пост 3 вроде въехал"/>
                 <Post message="А это что бы окончательно въехать"/>
