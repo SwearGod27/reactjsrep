@@ -1,0 +1,17 @@
+.main{
+    display: grid;
+    grid-template-columns: 3fr 4fr;
+}
+
+.item{
+    color: #e5e5e5;
+    text-decoration: none;
+}
+
+.name ul{
+    list-style: none;
+}
+
+.mes{
+    color: #e5e5e5;
+}

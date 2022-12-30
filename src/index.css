@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main_suite{
+    display: grid;
+    grid-template-areas:
+    "h h"
+    "sb m"
+;
+    grid-template-columns: 1fr 10fr;
+    grid-gap: 10px;
+    background-color: black;
+}
+
+.main_storage{
+    grid-area: m;
+}
+
