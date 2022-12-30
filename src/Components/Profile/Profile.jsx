@@ -8,7 +8,7 @@ import Profileinf from "./ProfileINF/ProfileInfo";
 const Profile = () => {
     return (
         <div className={s.main}>
-            <Profileinf profname={"Petr Dulnev"} profimg={"https://i.pinimg.com/originals/51/94/29/519429364b68b01b75413cbd71b4de00.jpg"} bgimg={"https://i.pinimg.com/originals/22/5a/4a/225a4ad1b7acedeff2239370b00655ae.jpg"}/>
+            <Profileinf profname={"Petr Avangard"} profimg={"https://i.pinimg.com/originals/51/94/29/519429364b68b01b75413cbd71b4de00.jpg"} bgimg={"https://i.pinimg.com/originals/22/5a/4a/225a4ad1b7acedeff2239370b00655ae.jpg"}/>
             <div className={s.send_post}>
                 <textarea></textarea>
                 <input type="button" value={"Отправить"}/>
